@@ -1,4 +1,16 @@
-# snehuh.github.io
+---
+layout: default
+title: "Home"
+---
+
+# BABU SNEHA 
+
+## Table of Contents
+- [Home](#home)
+- [About](#about)
+- [Technical Projects](#technical-projects)
+- [Contact](#contact)
+- [Contact](#contact)
 
 # Cybersecurity Analyst 
 
