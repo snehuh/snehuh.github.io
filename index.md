@@ -5,14 +5,7 @@ title: "Home"
 
 # BABU SNEHA 
 
-## Table of Contents
-- [Home](#home)
-- [About](#about)
-- [Technical Projects](#technical-projects)
-- [Contact](#contact)
-- [Contact](#contact)
-
-# Cybersecurity Analyst 
+## Cybersecurity Analyst 
 
 ### Education
 Undergraduate in B.Eng in ICT majoring in Information Security, April 2026
