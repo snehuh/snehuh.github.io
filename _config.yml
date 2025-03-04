@@ -2,6 +2,6 @@ title: Babu Sneha
 description: "Showcasing my journey and projects in Cybersecurity"
 # logo: /assets/img/headshot_circle.png
 # show_downloads: false
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman
 url: "https://snehuh.github.io"
 baseurl: ""
