@@ -5,7 +5,7 @@ title: "Home"
 
 # BABU SNEHA 
 
-## Cybersecurity Analyst 
+## Cybersecurity, AI, and Software Enthusiast
 
 ### Education
 Undergraduate in B.Eng in ICT majoring in Information Security, April 2026
@@ -21,6 +21,12 @@ _SOC Analyst Level 1 @ TryHackMe Labs_
 - Triaged real-time alerts using the SOC simulator in TryHackMe platform to analyse logs using Splunk, and write reports.
 - Certified in Cyber Security 101 Learning Pathway
 - Completed 80+ rooms, labs, ctf challenges and attained TOP 3% Worldwide ranking in the platform
+
+_Project Work: Automating business processes  by integrating Power Automate and Power Query_
+- Created scheduled flows in Power Automate to trigger the flow, implementing my skills in configuratrions
+- Transformed data using Power Query by automatically refreshing excel file based on csv update, and filtering inputs for final action
+- Utilised data from Power Query in Power Automate to send mass email notification reminders to employees who have yet to complete their cybersecurity training
+[![Video Title](https://img.youtube.com/vi/NYDr9SLnnNs&t=189s/0.jpg)](https://www.youtube.com/watch?v=NYDr9SLnnNs&t=170s)
 
 _General Cybersecurity Skills Building_ 
 - Certified in Master of Linux in Udemy
