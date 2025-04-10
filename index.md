@@ -27,7 +27,7 @@ _Project Work: Automating business processes  by integrating Power Automate and 
 - Transformed data using Power Query by automatically refreshing excel file based on csv update, and filtering inputs for final action
 - Utilised data from Power Query in Power Automate to send mass email notification reminders to employees who have yet to complete their cybersecurity training
  
-[![[Demo](https://img.youtube.com/vi/NYDr9SLnnNs&t=189s/0.jpg)](https://www.youtube.com/watch?v=NYDr9SLnnNs&t=308s)
+[![[Demo](https://img.youtube.com/vi/NYDr9SLnnNs/0.jpg)](https://www.youtube.com/watch?v=NYDr9SLnnNs&t=308s)
 #
 _General Cybersecurity Skills Building_ 
 - Certified in Master of Linux in Udemy
