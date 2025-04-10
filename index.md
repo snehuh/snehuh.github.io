@@ -26,7 +26,7 @@ _Project Work: Automating business processes  by integrating Power Automate and 
 - Created scheduled flows in Power Automate to trigger the flow, implementing my skills in configuratrions
 - Transformed data using Power Query by automatically refreshing excel file based on csv update, and filtering inputs for final action
 - Utilised data from Power Query in Power Automate to send mass email notification reminders to employees who have yet to complete their cybersecurity training
-[![Video Title](https://img.youtube.com/vi/NYDr9SLnnNs&t=189s/0.jpg)](https://www.youtube.com/watch?v=NYDr9SLnnNs&t=170s)
+[![Project Demo: Automating data tracking and email notification process using Power Automate and Power Query](https://img.youtube.com/vi/NYDr9SLnnNs&t=189s/0.jpg)](https://www.youtube.com/watch?v=NYDr9SLnnNs&t=143s)
 
 _General Cybersecurity Skills Building_ 
 - Certified in Master of Linux in Udemy
